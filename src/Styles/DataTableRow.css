@@ -1,0 +1,11 @@
+.table-row {
+  border-bottom: 1px solid rgb(224, 224, 224);
+}
+
+.table-header-row {
+  border-top: 1px solid rgb(224, 224, 224);
+}
+
+.table-body-row:hover {
+  background: rgb(245, 245, 245)
+}

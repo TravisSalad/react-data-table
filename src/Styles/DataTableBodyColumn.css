@@ -1,0 +1,25 @@
+.table-body-column {
+    padding: 15px;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.break-word {
+    word-wrap: break-word;
+}
+
+.ellipsis {
+    max-width: 0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
